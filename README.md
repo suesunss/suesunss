@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I'm currently at Alibaba, exploring the frontiers of large language models combined with data capabilities.
-- ⚡ I have a deep fascination with "vibe coding"—and indeed, "vibe living" in general; you know exactly what I'm talking about.
-- 📫 How to reach me: Connect via my X account, [@ai_shangshu](https://x.com/ai_shangshu).
+- 🔭 I'm currently at Alibaba, exploring the frontier of large language models and data intelligence.
+- ⚡ I'm deeply fascinated by "vibe coding"—and, honestly, "vibe living" as a whole; you know exactly what I mean.
+- 📫 Reach me on X: [@ai_shangshu](https://x.com/ai_shangshu)
